@@ -7,7 +7,11 @@ namespace Week02
         static void Main(string[] args)
         {
             // Create variables and do things with them!
-            
+            bool truefalse = false;
+            string letters = "Just some random text";
+            double decimals = 3.14;
+            int wholes = 9001;
+            Console.WriteLine(truefalse.ToString(), letters, decimals.ToString(), wholes.ToString());
         }
     }
 }
