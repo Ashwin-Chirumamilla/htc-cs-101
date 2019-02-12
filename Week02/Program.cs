@@ -11,7 +11,11 @@ namespace Week02
             string letters = "Just some random text";
             double decimals = 3.14;
             int wholes = 9001;
-            Console.WriteLine(truefalse.ToString(), letters, decimals.ToString(), wholes.ToString());
+           Console.WriteLine(truefalse.ToString());
+           Console.WriteLine(letters);
+           Console.WriteLine(decimals.ToString());
+           Console.WriteLine(wholes.ToString());
+
         }
     }
 }
