@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Ashwin C#\htc-cs-101\StudentWork\Week5Challenges\obj\Debug\netcoreapp2.2\Week5Challenges.csprojAssemblyReference.cache
+C:\Users\User\Documents\Ashwin C#\htc-cs-101\StudentWork\Week5Challenges\obj\Debug\netcoreapp2.2\Week5Challenges.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Ashwin C#\htc-cs-101\StudentWork\Week5Challenges\obj\Debug\netcoreapp2.2\Week5Challenges.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Ashwin C#\htc-cs-101\StudentWork\Week5Challenges\obj\Debug\netcoreapp2.2\Week5Challenges.AssemblyInfo.cs
+C:\Users\User\Documents\Ashwin C#\htc-cs-101\StudentWork\Week5Challenges\bin\Debug\netcoreapp2.2\Week5Challenges.deps.json
+C:\Users\User\Documents\Ashwin C#\htc-cs-101\StudentWork\Week5Challenges\bin\Debug\netcoreapp2.2\Week5Challenges.runtimeconfig.json
+C:\Users\User\Documents\Ashwin C#\htc-cs-101\StudentWork\Week5Challenges\bin\Debug\netcoreapp2.2\Week5Challenges.runtimeconfig.dev.json
+C:\Users\User\Documents\Ashwin C#\htc-cs-101\StudentWork\Week5Challenges\bin\Debug\netcoreapp2.2\Week5Challenges.dll
+C:\Users\User\Documents\Ashwin C#\htc-cs-101\StudentWork\Week5Challenges\bin\Debug\netcoreapp2.2\Week5Challenges.pdb
+C:\Users\User\Documents\Ashwin C#\htc-cs-101\StudentWork\Week5Challenges\obj\Debug\netcoreapp2.2\Week5Challenges.dll
+C:\Users\User\Documents\Ashwin C#\htc-cs-101\StudentWork\Week5Challenges\obj\Debug\netcoreapp2.2\Week5Challenges.pdb
