@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Ashwin C#\htc-cs-101\StudentWork\FinalProject\bin\Debug\netcoreapp2.2\FinalProject.deps.json
+C:\Users\User\Documents\Ashwin C#\htc-cs-101\StudentWork\FinalProject\bin\Debug\netcoreapp2.2\FinalProject.runtimeconfig.json
+C:\Users\User\Documents\Ashwin C#\htc-cs-101\StudentWork\FinalProject\bin\Debug\netcoreapp2.2\FinalProject.runtimeconfig.dev.json
+C:\Users\User\Documents\Ashwin C#\htc-cs-101\StudentWork\FinalProject\bin\Debug\netcoreapp2.2\FinalProject.dll
+C:\Users\User\Documents\Ashwin C#\htc-cs-101\StudentWork\FinalProject\bin\Debug\netcoreapp2.2\FinalProject.pdb
+C:\Users\User\Documents\Ashwin C#\htc-cs-101\StudentWork\FinalProject\obj\Debug\netcoreapp2.2\FinalProject.csprojAssemblyReference.cache
+C:\Users\User\Documents\Ashwin C#\htc-cs-101\StudentWork\FinalProject\obj\Debug\netcoreapp2.2\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Ashwin C#\htc-cs-101\StudentWork\FinalProject\obj\Debug\netcoreapp2.2\FinalProject.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Ashwin C#\htc-cs-101\StudentWork\FinalProject\obj\Debug\netcoreapp2.2\FinalProject.AssemblyInfo.cs
+C:\Users\User\Documents\Ashwin C#\htc-cs-101\StudentWork\FinalProject\obj\Debug\netcoreapp2.2\FinalProject.dll
+C:\Users\User\Documents\Ashwin C#\htc-cs-101\StudentWork\FinalProject\obj\Debug\netcoreapp2.2\FinalProject.pdb
